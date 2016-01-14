@@ -1,0 +1,11 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "down": "quarrycraft:blocks/advancedQuarryTop",
+	"up": "quarrycraft:blocks/advancedQuarryTop",
+	"north": "quarrycraft:blocks/advancedQuarrySide",
+	"east": "quarrycraft:blocks/advancedQuarrySide",
+	"south": "quarrycraft:blocks/advancedQuarrySide",
+	"west": "quarrycraft:blocks/advancedQuarrySide"
+    }
+}

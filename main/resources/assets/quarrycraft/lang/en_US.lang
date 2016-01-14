@@ -1,0 +1,11 @@
+item.dainKillSword.name=Outdated Sword from the era of Forbidden Killings
+
+tile.quarryUpgrade.quarryUpgrade_0.name=Speed Enhancement Block MK I
+tile.quarryUpgrade.quarryUpgrade_1.name=Speed Enhancement Block MK II
+tile.quarryUpgrade.quarryUpgrade_2.name=Acceleration Enhancement Block 
+tile.quarryUpgrade.quarryUpgrade_3.name=Fortune Enhancement Block
+tile.quarryUpgrade.quarryUpgrade_4.name=Chunk Enhancement Block<WIP> 
+tile.quarryUpgrade.quarryUpgrade_5.name=Energy Usage Enhancement Block
+
+tile.goldBlock.name=Gold-Coated Stone
+tile.advancedQuarry.name=PhantomQuarry

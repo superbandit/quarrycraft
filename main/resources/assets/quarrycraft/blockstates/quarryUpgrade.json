@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "type=speedi": { "model":"quarrycraft:quarryUpgrade_0" },
+        "type=speedii": { "model":"quarrycraft:quarryUpgrade_1" },
+	"type=acceleration": { "model":"quarrycraft:quarryUpgrade_2" },
+        "type=fortune": { "model":"quarrycraft:quarryUpgrade_3" },
+	"type=energy": { "model":"quarrycraft:quarryUpgrade_4" }
+    }
+}
